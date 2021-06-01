@@ -1,4 +1,4 @@
 # PDP-TEST2
-# SKILLS : HTML5,CSS,JQUERY,AJAX,FONT-AWESOME,GOOGLE FONTS
-# DEMO: DOWNLOAD CODE DOUBLE CLICK INDEX.HTML
-# PDP PAGE DATA IS LOADED FROM AJAX CALL
+# SKILLS : html5, css, jquery, font-awesome, ajax
+# DEMO: Download code and double click index.html
+# Pdp data is loaded from ajax call
